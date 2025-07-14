@@ -7,7 +7,7 @@ This repository contains my personal solutions to LeetCode problems, categorized
 Each folder represents a topic or data structure. Each file contains:
 - Problem Title
 - LeetCode Link
-- Solution in C++
+- Solution in C++/Python
 - Time and Space Complexity
 - Comments if needed
 
@@ -17,7 +17,7 @@ Each folder represents a topic or data structure. Each file contains:
 
 ### ✅ Move Zeroes
 - **Problem**: [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- **Language**: C++/Python
+- **Language**: C++
 - **Time Complexity**: O(n)
 - **Space Complexity**: O(1)
 
